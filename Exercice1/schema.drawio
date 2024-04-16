@@ -7,13 +7,13 @@
                 <mxCell id="2" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="647" y="342" width="101" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;font color=&quot;#000000&quot;&gt;ST1&lt;/font&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+                <mxCell id="3" value="&lt;font color=&quot;#000000&quot;&gt;ST1&lt;br&gt;192.168.0.101/24&lt;br&gt;&lt;/font&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="414" y="447" width="78" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;font color=&quot;#000000&quot;&gt;ST2&lt;/font&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+                <mxCell id="4" value="&lt;font color=&quot;#000000&quot;&gt;ST2&lt;br&gt;192.168.0.102/24&lt;br&gt;&lt;/font&gt;" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="406" y="236" width="78" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;font color=&quot;#000000&quot;&gt;SRV1&lt;/font&gt;" style="shape=mxgraph.cisco.servers.standard_host;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;font color=&quot;#000000&quot;&gt;SRV1&lt;br&gt;192.168.0.1/24&lt;br&gt;&lt;/font&gt;" style="shape=mxgraph.cisco.servers.standard_host;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
                     <mxGeometry x="936" y="336" width="43" height="62" as="geometry"/>
                 </mxCell>
                 <mxCell id="6" value="" style="endArrow=none;html=1;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="4" target="2">
